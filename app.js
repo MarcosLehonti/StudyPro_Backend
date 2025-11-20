@@ -69,7 +69,10 @@ const app = express();
 
 // Configuración de CORS
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: [
+    'http://localhost:5173',
+    'https://study-pro-fronted.vercel.app'
+  ],
   credentials: true
 }));
 
