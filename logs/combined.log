@@ -201,3 +201,54 @@
 {"level":"info","message":"✅ Login exitoso para usuario: lehonti@gmail.com","timestamp":"2025-11-02T17:24:01.165Z"}
 {"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-02T18:34:49.375Z"}
 {"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-02T18:40:25.267Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-02T19:10:47.389Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-02T19:11:06.369Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T02:16:21.652Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T02:16:58.580Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T02:25:06.219Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T02:25:33.603Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T02:36:32.050Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T02:36:56.983Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T02:56:57.538Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T02:57:21.523Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T03:18:18.438Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:43:28.263Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:46:09.111Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:47:52.559Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:53:15.205Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:54:38.911Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:57:03.748Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:58:16.471Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T03:59:38.805Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T04:02:04.293Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T04:08:33.360Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T04:14:31.895Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T04:17:12.983Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T04:34:03.902Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T04:34:23.435Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: lehonti@gmail.com","timestamp":"2025-11-03T04:35:55.459Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T04:44:34.412Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T04:44:34.428Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: max@gmail.com","timestamp":"2025-11-03T04:46:02.891Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T04:46:22.352Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T04:46:22.360Z"}
+{"level":"info","message":"✅ Perfil obtenido para el usuario ID: 3","timestamp":"2025-11-03T04:55:15.868Z"}
+{"level":"info","message":"✅ Perfil obtenido para el usuario ID: 3","timestamp":"2025-11-03T04:55:15.891Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-03T04:56:01.839Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-03T05:01:27.971Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:05:25.440Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:05:25.523Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: lehonti@gmail.com","timestamp":"2025-11-03T05:06:25.195Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:06:32.896Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:06:32.906Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: max@gmail.com","timestamp":"2025-11-03T05:08:15.290Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:08:20.694Z"}
+{"level":"info","message":"📚 Cursos listados: 10","timestamp":"2025-11-03T05:08:20.736Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-13T16:01:32.298Z"}
+{"level":"warn","message":"⚠️ Intento de login con usuario no encontrado: marcos@example.com","timestamp":"2025-11-13T16:02:41.713Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-13T16:02:54.892Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: lehonti@gmail.com","timestamp":"2025-11-13T16:14:40.277Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: max@gmail.com","timestamp":"2025-11-13T16:15:23.276Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: marcos@gmail.com","timestamp":"2025-11-13T16:16:21.886Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T07:43:08.024Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: lehonti@gmail.com","timestamp":"2025-11-20T07:44:16.378Z"}

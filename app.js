@@ -24,6 +24,9 @@ console.log("APP_LOG: 9. Importando meetingRoutes (El punto crítico)");
 const meetingRoutes = require("./routes/meetingRoutes");
 console.log("APP_LOG: 12. Importando api de gemini");
 const geminiRoutes = require('./routes/geminiRoutes');
+console.log("APP_LOG: 12.5. Importando api de BI");
+
+const statsRoutes = require("./routes/statsRoutes");
 
 console.log("APP_LOG: 11. Importando models/index");
 // ✅ importa todos los modelos y sus relaciones
@@ -60,6 +63,8 @@ app.use('/api/usercourse', userCourse);
 app.use('/api/groups', groupRoutes);
 app.use("/api/meetings", meetingRoutes);
 app.use("/api/gemini", geminiRoutes);
+app.use("/api/stats", statsRoutes);
+
 
 console.log("APP_LOG: 16. Iniciando sincronización de DB");
 // 🔹 Conexión con la base deP datos
