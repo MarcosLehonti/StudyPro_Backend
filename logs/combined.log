@@ -255,3 +255,10 @@
 {"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T12:40:27.620Z"}
 {"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T12:43:35.407Z"}
 {"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T12:49:21.576Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T13:00:56.706Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T13:01:07.340Z"}
+{"level":"warn","message":"⚠️ Intento de login con usuario no encontrado: lehonti@gmail.com","timestamp":"2025-11-20T13:06:50.782Z"}
+{"level":"info","message":"✅ Usuario registrado correctamente: max@gmail.com","timestamp":"2025-11-20T13:07:24.166Z"}
+{"level":"info","message":"✅ Login exitoso para usuario: max@gmail.com","timestamp":"2025-11-20T13:07:40.941Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T13:35:57.007Z"}
+{"level":"info","message":"🚀 Backend running on http://localhost:4000","timestamp":"2025-11-20T13:37:37.875Z"}
