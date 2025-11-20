@@ -44,7 +44,7 @@
 // };
 
 
-const User = require('./user');
+const User = require('./User');
 const Course = require('./Course');
 const Degree = require('./Degree');
 const StudyGroup = require('./StudyGroup');

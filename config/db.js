@@ -13,7 +13,7 @@
 // module.exports = sequelize;
 
 const { Sequelize } = require('sequelize');
-require('dotenv').config();
+//require('dotenv').config();
 
 // Conexión usando DATABASE_URL de Neon
 const sequelize = new Sequelize(process.env.DATABASE_URL, {

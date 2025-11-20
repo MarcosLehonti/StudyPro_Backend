@@ -3,7 +3,6 @@ const User = require('../models/User');
 const logger = require('../logger');   // 🚨 Importación del logger
 
 // Obtener datos del usuario logueado
-// controllers/user.controller.js
 exports.getProfile = async (req, res) => {
   try {
     const user = await User.findByPk(req.user.id, {
