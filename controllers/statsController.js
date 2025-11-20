@@ -1,6 +1,6 @@
 // controllers/statsController.js
 const { Op } = require("sequelize");
-const User = require("../models/user");
+const User = require("../models/User");
 const StudyGroup = require("../models/StudyGroup");
 const sequelize = require("../config/db"); // ✅ conexión a la BD
 

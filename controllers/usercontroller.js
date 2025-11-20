@@ -1,5 +1,5 @@
 const bcrypt = require('bcryptjs');
-const User = require('../models/user');
+const User = require('../models/User');
 const logger = require('../logger');   // 🚨 Importación del logger
 
 // Obtener datos del usuario logueado
