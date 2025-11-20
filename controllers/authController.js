@@ -1,6 +1,6 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-const User = require('../models/user');
+const User = require('../models/User');
 require('dotenv').config();
 const logger = require('../logger');   // 🚨 Importación del logger
 
